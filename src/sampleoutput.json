@@ -1,0 +1,87 @@
+{
+  "status": "ok",
+  "totalResults":8,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Toyin Owoseje, Evan Simko-Bednarski and Sandra Gonzalez, CNN",
+      "title": "Zayn Malik pleaded no contest to harassment charges in alleged dispute with Gigi and Yolanda Hadid - CNN",
+      "description": "Pop star Zayn Malik pleaded no contest to charges of harassment earlier this month following an alleged dispute with Yolanda Hadid, the mother of his supermodel partner Gigi Hadid, court documents reveal.",
+      "url": "https://www.cnn.com/2021/10/29/entertainment/zayn-malik-yolanda-hadid-allegations-intl-scli/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211029111241-zayn-malik-gigi-hadid-file-super-tease.jpg",
+      "publishedAt": "2021-10-30T02:12:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "ESPN",
+      "title": "2021 World Series - Best moments from Houston Astros vs. Atlanta Braves Game 3 - ESPN",
+      "description": "After trading blowouts in Houston, the World Series moves to Atlanta. Astros star Alex Bregman has gone cold and the Braves need bigger production from their pitching staff.",
+      "url": "https://www.espn.com/mlb/story/_/id/32503252/2021-world-series-best-moments-houston-astros-vs-atlanta-braves-game-3",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1030%2Fr930448_1296x729_16%2D9.jpg",
+      "publishedAt": "2021-10-30T02:03:45Z",
+      "content": "The 2021 World Series is tied 1-1 after the Atlanta Braves and Houston Astros traded blowout wins in Houston. The series shifts to Atlanta for Games 3, 4, and 5. Game 3 is Friday night. Luis Garcia g… [+4370 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Zach Kruse",
+      "title": "After losing Robert Tonyan, could Packers trade for TE Evan Engram? - Packers Wire",
+      "description": "Touchdown Wire believes the Packers should go after Giants TE Evan Engram after losing Robert Tonyan. We discuss the idea and if the Packers should go for it.",
+      "url": "https://packerswire.usatoday.com/2021/10/29/after-losing-robert-tonyan-could-packers-trade-for-te-evan-engram/",
+      "urlToImage": "https://packerswire.usatoday.com/wp-content/uploads/sites/57/2021/10/2a6a00ed38624eca90582603010a8c9a.jpg?w=1024&h=576&crop=1",
+      "publishedAt": "2021-10-30T00:42:00Z",
+      "content": "Green Bay Packers general manager Brian Gutekunst got a chance to see his shorthanded team take on a top contender on the road on Thursday night. The result was an impressive win over the previously … [+3162 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": "Kat Bailey",
+      "title": "Nintendo Confirms It's Closing Its Northern California And Toronto Offices - IGN",
+      "description": "Nintendo confirmed to IGN that it is shuttering its offices in California and Toronto. It coincides with the reported departure of Senior Vice President of Sales and Marketing Nick Chavez.",
+      "url": "https://www.ign.com/articles/nintendo-northern-california-toronto-offices",
+      "urlToImage": "https://assets-prd.ignimgs.com/2021/10/29/nintendo-logo-large-1635551883849.jpg?width=1280",
+      "publishedAt": "2021-10-30T00:09:10Z",
+      "content": "Nintendo is shuttering its offices in Redwood City, California and Toronto, Ontario a move that will reportedly affect more than 100 employees. The decision coincides with the reported resignation of… [+1562 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WTOP" },
+      "author": "The Associated Press",
+      "title": "Anti-Trump group takes credit for Virginia tiki torch stunt - WTOP",
+      "description": "NORFOLK, Va. (AP) — The anti-Donald Trump group The Lincoln Project took credit Friday for five people appearing with tiki torches at a Charlottesville campaign stop by Virginia'",
+      "url": "http://wtop.com/virginia/2021/10/anti-trump-group-takes-credit-for-virginia-tiki-torch-stunt/",
+      "urlToImage": "https://wtop.com/wp-content/uploads/2021/10/Virginia_Governor_Tiki_Torches_71748.jpg",
+      "publishedAt": "2021-10-29T23:53:50Z",
+      "content": "NORFOLK, Va. (AP) The anti-Donald Trump group The Lincoln Project took credit Friday for five people appearing with tiki torches at a Charlottesville campaign stop by Virginia’s GOP candidate for gov… [+2796 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Kareem Chehayeb",
+      "title": "Saudi Arabia, Bahrain expel Lebanese ambassadors - Al Jazeera English",
+      "description": "Feud comes days after footage emerged of Lebanon’s information minister criticising the Saudi Arabia-led war in Yemen.",
+      "url": "https://www.aljazeera.com/economy/2021/10/29/saudi-arabia-bans-imports-from-lebanon-expels-ambassador",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/06/AP21116453808773.jpg?resize=1200%2C630",
+      "publishedAt": "2021-10-29T23:48:45Z",
+      "content": "Beirut, Lebanon Saudi Arabia has banned all imports from Lebanon and given the Lebanese ambassador 48 hours to leave the kingdom after footage emerged earlier this week of a minister criticising the … [+3682 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Sean Hollister",
+      "title": "These might be the first leaked photos of Intel’s Arc Alchemist graphics card - The Verge",
+      "description": "Intel is building dedicated gaming graphics cards, due out in Q1 2022 — and we may have just gotten our first look at the big one, the Arc Alchemist. Here are some leaked images from YouTuber Moore’s Law is Dead.",
+      "url": "https://www.theverge.com/2021/10/29/22753512/intel-arc-alchemist-leaked-photos-moores-law-dead-youtube",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/1a-bfrYeS7xhgkBSY31x7-dBSM4=/0x0:2560x1340/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22968181/Intel_Arc_Alchemist_DG2_512EU_Reference_Card.jpg",
+      "publishedAt": "2021-10-29T23:38:50Z",
+      "content": "Two fans, 512 execution units, 6+8-pin PCIe\r\nIntel is building dedicated gaming graphics cards, due out in Q1 2022, and we may have just gotten our first look at the big one, the Arc Alchemist. Here … [+969 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Louis Casiano",
+      "title": "Minneapolis measure to replace police department will leave voters disappointed, expert says - Fox News",
+      "description": "Minneapolis residents planning to vote in favor of a ballot measure next week that would replace the city's police department will be disappointed, according to law enforcement experts.",
+      "url": "https://www.foxnews.com/us/minneapolis-measure-police-voters",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/AP21300695144899.jpg",
+      "publishedAt": "2021-10-29T23:30:38Z",
+      "content": "Minneapolis residents planning to vote in favor of a ballot measure next week that would replace the city's police department will be disappointed if it passes, according to law enforcement experts.\r… [+4760 chars]"
+    }
+    
+  ]
+}
