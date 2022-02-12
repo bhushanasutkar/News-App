@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Newsitems from './Newsitems'
 import Spinning from './Spinning';
-// import PropTypes from 'prop-types'
+import PropTypes from 'prop-types'
 
 export class News extends Component {
    static defaultProps={
@@ -9,11 +9,11 @@ export class News extends Component {
      pagesize:8,
      category:'general'
    }
-  //  static propTypes={
-  //      country: PropTypes.string,
-  //      pagesize:PropTypes.number,
-  //      category:PropTypes.string
-  //  }
+   static propTypes={
+       country: PropTypes.string,
+       pagesize:PropTypes.number,
+       category:PropTypes.string
+   }
     capitalizeFirstLetter(string) {
     return string.toUpperCase() ;
   }
@@ -100,7 +100,7 @@ export class News extends Component {
     <div className="container my-5"  >
         <h1  style={{padding: '20px 0px'}} className={`my-3 text-center text-${this.props.mode==='dark'?'white':'dark'} `}>NewsMonkey-Top  {this.capitalizeFirstLetter(this.props.category)} Headlines </h1>
         { this.state.loading && <Spinning />}
-        <div className="row ">
+        <div className="row">
           {!this.state.loading && this.state.articles.map((element) => {
             return <div key={element.url} className="col-md-4 my-3">
               <Newsitems mode={this.props.mode} title={element.title ? element.title : ""} description={element.description ? element.description : ` Read Full Article On ${element.source.name}`} imageUrl={element.urlToImage} publishedAt={new Date(element.publishedAt).toGMTString()} author={element.author? element.author:"Unknown"} newsUrl={element.url} source={element.source.name} />
