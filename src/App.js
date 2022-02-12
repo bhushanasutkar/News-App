@@ -24,7 +24,7 @@ export default class App extends Component {
     console.log("hii");
     if (this.state.mode === 'light') {
       this.setState({mode:'dark'})
-      document.body.style.backgroundColor = '#fcde67';
+      document.body.style.backgroundColor = 'rgb(33 2 35)';
       // document.body.style.backgroundImage="url('bglight.jpg')";
      
     }

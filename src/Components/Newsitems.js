@@ -12,8 +12,8 @@ export class Newsitems extends Component {
                     </div>
 
                     <img src={!imageUrl ? "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F1030%2Fr930448_1296x729_16%2D9.jpg" : imageUrl} className="card-img-top w-100 h-50 d-inline-block " class="imageh" alt="..." />
-                    <div className="card-body" style={{color: this.props.mode === 'dark' ? 'white' : 'black',
-      backgroundColor: this.props.mode === 'dark' ? '#212529' : '#f4f4f4'}}>
+                    <div className="card-body" style={{color: this.props.mode === 'dark' ? '#d24fd2' : 'black',
+      backgroundColor: this.props.mode === 'dark' ? 'black' : '#f4f4f4'}}>
 
                         <h5 className="card-title">{title}</h5>
                         <p className="card-text">{description}</p>
